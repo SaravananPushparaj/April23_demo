@@ -7,6 +7,7 @@ public class First_prg {
 
 		System.out.println("Welcome March17 batch");
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 
 }
